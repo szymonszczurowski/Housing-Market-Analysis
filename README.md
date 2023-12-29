@@ -1,4 +1,4 @@
-# Housing Price Predictor
+# Housing Market Analysis
 
 **This project focuses on creating predictive models for real estate prices** in Morąg city. Utilizing a comprehensive dataset from the local municipal office, the project aims to **predict housing prices** based on various property features. 
 
